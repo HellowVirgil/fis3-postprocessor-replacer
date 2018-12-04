@@ -35,4 +35,4 @@ fis.match('**.tpl', {
 });
 ```
 
-这样配置的话，将在编译阶段将 js 文件中的`https://www.baidu.com/`替换为`http://test.baidu.com:8080/`，同时将 tpl 文件中的`{api-url}`（匹配忽略大小写）替换为对应的`http://127.0.0.1`。
+这样配置的话，将在编译阶段将 js 文件中的`https://www.baidu.com/`替换为`http://test.baidu.com:8080/`，同时将 tpl 文件中的`{api-url}`（匹配忽略大小写）替换为`http://127.0.0.1`。
