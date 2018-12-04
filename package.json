@@ -1,0 +1,23 @@
+{
+  "name": "fis3-postprocessor-replacer",
+  "version": "1.0.0",
+  "description": "fis3 replace plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellowVirgil/fis3-postprocessor-replacer.git"
+  },
+  "keywords": [
+    "fis3",
+    "replace"
+  ],
+  "author": "HellowVirgil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HellowVirgil/fis3-postprocessor-replacer/issues"
+  },
+  "homepage": "https://github.com/HellowVirgil/fis3-postprocessor-replacer#readme"
+}
